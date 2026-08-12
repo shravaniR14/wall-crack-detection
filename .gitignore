@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dataset - DO NOT PUSH
+Positive/
+Negative/
+
+# Large HOG feature file
+hog_features.npz
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
